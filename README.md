@@ -6,7 +6,7 @@ This program standard outputs some random strings for making passwords. You can 
 ## Install and how to use
 1. `make` or compile as `gcc -o pw simplepwgen.c`, then `pw` excecutable file is maked.
 2. Move `pw` excecutable file into any directory which the path is added into $PATH, such as */usr/bin*, *~/bin*.
-3. Open a terminal, and call `pw` 
+3. Open a terminal, and call `pw` (There is no option, so just type the file name)
 4. A real example of output as shown below.
 
 ```
