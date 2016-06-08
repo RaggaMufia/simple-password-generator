@@ -1,8 +1,7 @@
 /*
  * Simple Password Generator, written by emeda
  * Make passwords by using rand() function, and outputs to stdout.
- * 2008-02-08 ver. beta
- * 2016-06-07 ver. 1.0
+ * 2008-02-08 ver. 1.0
  */
 
 #include <stdio.h>
